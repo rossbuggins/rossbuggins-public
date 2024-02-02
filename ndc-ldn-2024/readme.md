@@ -4,6 +4,15 @@
 ![ndc](ndc.jpg)
 
 
+## maybe don’t blindly trust chat gpt 4…
+
+Chat gpt decided a summary of this page is:
+
+*Hello, this is Copilot. I can help you summarise the file you provided. Here is a brief summary:
+The file is a README.md for a GitHub repository named ndc-ldn-2024. It contains information about a talk given by Ross Buggins at the NDC London 2024 conference. The talk is titled “Building a chatbot with Copilot and Suno” and it covers how to use Copilot, an AI companion that can chat, create content, and assist users, and Suno, an AI music composer that can generate songs on any topic. The file also provides links to the slides, the video recording, and the demo chatbot that was used during the talk. The file ends with a feedback form and a contact section for the speaker.*
+
+
+
 ## Wednesday, 2024-01-31
 
 | Session Review                                                             | Title                                                                                                                                                                                       | Start | Finish | Location | Speaker                                                | Role | Org |
